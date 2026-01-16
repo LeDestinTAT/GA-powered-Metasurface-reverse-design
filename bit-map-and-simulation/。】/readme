@@ -1,5 +1,0 @@
-single.mph is the base model we use to train
-bitmaptrans.m is a programe which can turn bitmaps into comsol models and simulate them
-bitmapbuild.m is how we chose 5000 different samples
-bitmap_to_simVer2.m is programmed to simulate different samples which bitmapbuild.m had generated
-----------------------------------------2026.2.17 4:05 UTC+8----------------------------------------------------------
