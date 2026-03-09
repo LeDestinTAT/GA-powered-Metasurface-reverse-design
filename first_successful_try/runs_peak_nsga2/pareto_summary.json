@@ -1,0 +1,41 @@
+[
+  {
+    "rank": 0,
+    "fitness": [
+      0.0,
+      0.03859853744506814
+    ],
+    "main_pos": 8.5,
+    "main_amp": 0.9422802925109863,
+    "n_peaks": 2,
+    "spur_penalty": 0.0,
+    "pattern_file": "pattern_000.npy",
+    "spectrum_file": "spectrum_000.npy"
+  },
+  {
+    "rank": 1,
+    "fitness": [
+      0.5000019073486328,
+      0.03389453887939431
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9432210922241211,
+    "n_peaks": 2,
+    "spur_penalty": 0.0,
+    "pattern_file": "pattern_001.npy",
+    "spectrum_file": "spectrum_001.npy"
+  },
+  {
+    "rank": 2,
+    "fitness": [
+      1.0000038146972656,
+      0.0038773417472837135
+    ],
+    "main_pos": 8.399999618530273,
+    "main_amp": 0.9492245316505432,
+    "n_peaks": 3,
+    "spur_penalty": 0.0,
+    "pattern_file": "pattern_002.npy",
+    "spectrum_file": "spectrum_002.npy"
+  }
+]

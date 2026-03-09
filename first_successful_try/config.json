@@ -1,0 +1,44 @@
+{
+  "seed": 42,
+  "deterministic": false,
+  "device": "cuda",
+
+  "ckpt_path": "C:/Users/90740/Desktop/final/fno_peak_curve_best.pt",
+  "output_dir": "runs_peak_nsga2",
+
+  "target_peak": {
+    "pos": 8.5,
+    "amp": 0.95
+  },
+
+  "spur_ratio_max": 0.25,
+
+  "encoding": {
+    "height": 11,
+    "width": 11,
+    "symmetry": "none"
+  },
+
+  "peak_detect": {
+    "min_height": 0.08,
+    "min_prom_ratio": 0.08,
+    "min_distance": 2,
+    "smooth_k": 5
+  },
+
+  "fitness": {
+    "w_pos": 10.0,
+    "w_amp": 5.0,
+    "w_spur": 20.0,
+    "missing_peak_penalty": 1000000.0
+  },
+
+  "nsga2": {
+    "pop_size": 128,
+    "ngen": 150,
+    "cxpb": 0.8,
+    "mutpb": 0.3,
+    "indpb_bit": 0.02,
+    "cache_size": 100000
+  }
+}

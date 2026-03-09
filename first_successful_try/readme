@@ -1,0 +1,3 @@
+config.json调整参数
+运行用python run_optimize.py --config config.json
+用little tool测试  python little_tool.py --input runs_peak_nsga2/best_pattern.npy
