@@ -42,7 +42,7 @@ def choose_gn_groups(width):
 
 
 # ==========================================================
-# 2. 你的 FNO 模型定义（按训练代码重建）
+# 2.  FNO 模型定义（按训练代码重建）
 # ==========================================================
 class SpectralConv2d(nn.Module):
     def __init__(self, in_channels, out_channels, modes1, modes2):
