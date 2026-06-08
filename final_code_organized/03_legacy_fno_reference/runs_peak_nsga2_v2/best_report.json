@@ -1,0 +1,19 @@
+{
+  "fitness": [
+    0.0,
+    0.15927976369857766,
+    0.0
+  ],
+  "post_score": 0.15927976369857766,
+  "main_pos": 8.5,
+  "main_amp": 0.9181440472602844,
+  "n_peaks": 1,
+  "max_spur_amp": 0.0,
+  "spur_ratio": 0.0,
+  "spur_excess": 0.0,
+  "best_selection": {
+    "w_pos": 1.0,
+    "w_amp": 1.0,
+    "w_spur": 1.0
+  }
+}

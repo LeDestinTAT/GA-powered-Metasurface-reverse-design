@@ -1,3 +1,11 @@
 config.json调整参数
 运行用python run_optimize.py --config config.json
-用little tool测试  python little_tool.py --input runs_peak_nsga2/best_pattern.npy
+用little tool转换为matlab格式  python little_tool.py --input runs_peak_nsga2/best_pattern.npy
+
+
+
+try 1 为训练代码。try 1 pre 为测试代码
+events.out 为收敛信息需要配合pytorch之类的工具使用，这里仅做存档备份
+run optimize为遗传算法优化
+best 和 final pt文件为最好和结束时的神经网络信息
+runs_peak_nsga2为存储最终优化结果的位置

@@ -1,0 +1,78 @@
+{
+  "seed": 42,
+  "deterministic": false,
+  "device": "cuda",
+  "output_dir_root": "outputs/optimization/dual_nsga2",
+  "run_name": null,
+  "model": {
+    "choice": "latest_run_best",
+    "custom_path": null,
+    "run_name": "20260419-205756",
+    "best_index": null,
+    "current_best_name": "fno_fullfield_maxwell_dual_best.pt",
+    "current_final_name": "fno_fullfield_maxwell_dual_final.pt"
+  },
+  "predictor": {
+    "forward_batch_size": 64,
+    "lambda_chunk_size": 16
+  },
+  "geometry": {
+    "bottom_metal_zmax": 1e-07,
+    "dielectric_zmax": 4e-07,
+    "top_pattern_zmax": 4.3e-07
+  },
+  "encoding": {
+    "height": 11,
+    "width": 11,
+    "symmetry": "none"
+  },
+  "nsga2": {
+    "pop_size": 128,
+    "ngen": 80,
+    "cxpb": 0.9,
+    "mutpb": 0.4,
+    "indpb_bit": 0.03,
+    "cache_size": 100000
+  },
+  "peak_detect": {
+    "smooth_k": 5,
+    "min_height": 0.08,
+    "min_prom_ratio": 0.08,
+    "min_distance": 2
+  },
+  "fitness": {
+    "w_pos": 1.0,
+    "w_amp": 1.0,
+    "w_secondary": 1.0,
+    "w_fwhm": 1.0,
+    "w_spur": 1.0,
+    "missing_peak_penalty": 1000000.0
+  },
+  "target_peak": {
+    "pos": 8.0,
+    "amp": 0.95
+  },
+  "secondary_peak": {
+    "max_amp": 0.2
+  },
+  "fwhm": {
+    "target": 0.8,
+    "min": 0.2,
+    "max": 1.8,
+    "missing_penalty": 1000000.0
+  },
+  "spur_ratio_max": 0.3,
+  "best_selection": {
+    "w_pos": 1.0,
+    "w_amp": 1.0,
+    "w_secondary": 1.0,
+    "w_fwhm": 1.0,
+    "w_spur": 1.0
+  },
+  "postprocess": {
+    "lambda_mode": "max_absorption",
+    "lambda_um": 8.0,
+    "field_component": "Ez",
+    "field_view": "magnitude"
+  }
+}

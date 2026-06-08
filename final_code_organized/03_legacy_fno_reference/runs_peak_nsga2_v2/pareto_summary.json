@@ -1,0 +1,674 @@
+[
+  {
+    "rank": 0,
+    "fitness": [
+      0.0,
+      0.06598925590515115,
+      3.2780151367964177
+    ],
+    "main_pos": 8.5,
+    "main_amp": 0.9368021488189697,
+    "n_peaks": 3,
+    "max_spur_amp": 0.24722279608249664,
+    "spur_ratio": 0.2639007568398209,
+    "spur_excess": 0.1639007568398209,
+    "pattern_file": "pattern_000.npy",
+    "spectrum_file": "spectrum_000.npy"
+  },
+  {
+    "rank": 1,
+    "fitness": [
+      0.0,
+      0.10957932472228982,
+      1.0476068849454627
+    ],
+    "main_pos": 8.5,
+    "main_amp": 0.928084135055542,
+    "n_peaks": 3,
+    "max_spur_amp": 0.14142177999019623,
+    "spur_ratio": 0.15238034424727315,
+    "spur_excess": 0.05238034424727314,
+    "pattern_file": "pattern_001.npy",
+    "spectrum_file": "spectrum_001.npy"
+  },
+  {
+    "rank": 2,
+    "fitness": [
+      0.0,
+      0.1570782661437986,
+      0.745003532475676
+    ],
+    "main_pos": 8.5,
+    "main_amp": 0.9185843467712402,
+    "n_peaks": 2,
+    "max_spur_amp": 0.1260758638381958,
+    "spur_ratio": 0.1372501766237838,
+    "spur_excess": 0.0372501766237838,
+    "pattern_file": "pattern_002.npy",
+    "spectrum_file": "spectrum_002.npy"
+  },
+  {
+    "rank": 3,
+    "fitness": [
+      0.0,
+      0.15927976369857766,
+      0.0
+    ],
+    "main_pos": 8.5,
+    "main_amp": 0.9181440472602844,
+    "n_peaks": 1,
+    "max_spur_amp": 0.0,
+    "spur_ratio": 0.0,
+    "spur_excess": 0.0,
+    "pattern_file": "pattern_003.npy",
+    "spectrum_file": "spectrum_003.npy"
+  },
+  {
+    "rank": 4,
+    "fitness": [
+      0.5000019073486328,
+      0.013844132423400657,
+      4.845850798727553
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9472311735153198,
+    "n_peaks": 2,
+    "max_spur_amp": 0.3242301642894745,
+    "spur_ratio": 0.34229253993637765,
+    "spur_excess": 0.24229253993637764,
+    "pattern_file": "pattern_004.npy",
+    "spectrum_file": "spectrum_004.npy"
+  },
+  {
+    "rank": 5,
+    "fitness": [
+      0.5000019073486328,
+      0.020280241966247337,
+      3.3639009859041153
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9459439516067505,
+    "n_peaks": 3,
+    "max_spur_amp": 0.2536974847316742,
+    "spur_ratio": 0.26819504929520577,
+    "spur_excess": 0.16819504929520576,
+    "pattern_file": "pattern_005.npy",
+    "spectrum_file": "spectrum_005.npy"
+  },
+  {
+    "rank": 6,
+    "fitness": [
+      0.5000019073486328,
+      0.04426783323287942,
+      2.1558515212684224
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9411464333534241,
+    "n_peaks": 3,
+    "max_spur_amp": 0.19556324183940887,
+    "spur_ratio": 0.20779257606342114,
+    "spur_excess": 0.10779257606342113,
+    "pattern_file": "pattern_006.npy",
+    "spectrum_file": "spectrum_006.npy"
+  },
+  {
+    "rank": 7,
+    "fitness": [
+      0.5000019073486328,
+      0.05805587768554665,
+      2.0649095578939236
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9383888244628906,
+    "n_peaks": 4,
+    "max_spur_amp": 0.19072328507900238,
+    "spur_ratio": 0.20324547789469619,
+    "spur_excess": 0.10324547789469618,
+    "pattern_file": "pattern_007.npy",
+    "spectrum_file": "spectrum_007.npy"
+  },
+  {
+    "rank": 8,
+    "fitness": [
+      0.5000019073486328,
+      0.06588166952133157,
+      1.2939234510675597
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9368236660957336,
+    "n_peaks": 2,
+    "max_spur_amp": 0.1542912721633911,
+    "spur_ratio": 0.16469617255337798,
+    "spur_excess": 0.06469617255337798,
+    "pattern_file": "pattern_008.npy",
+    "spectrum_file": "spectrum_008.npy"
+  },
+  {
+    "rank": 9,
+    "fitness": [
+      0.5000019073486328,
+      0.07384097576141335,
+      0.6948569671011651
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9352318048477173,
+    "n_peaks": 3,
+    "max_spur_amp": 0.1260157972574234,
+    "spur_ratio": 0.13474284835505826,
+    "spur_excess": 0.03474284835505825,
+    "pattern_file": "pattern_009.npy",
+    "spectrum_file": "spectrum_009.npy"
+  },
+  {
+    "rank": 10,
+    "fitness": [
+      0.5000019073486328,
+      0.09473925828933694,
+      0.0
+    ],
+    "main_pos": 8.449999809265137,
+    "main_amp": 0.9310521483421326,
+    "n_peaks": 1,
+    "max_spur_amp": 0.0,
+    "spur_ratio": 0.0,
+    "spur_excess": 0.0,
+    "pattern_file": "pattern_010.npy",
+    "spectrum_file": "spectrum_010.npy"
+  },
+  {
+    "rank": 11,
+    "fitness": [
+      1.0000038146972656,
+      0.0049663186073301,
+      6.685640237585318
+    ],
+    "main_pos": 8.600000381469727,
+    "main_amp": 0.9490067362785339,
+    "n_peaks": 3,
+    "max_spur_amp": 0.4121365547180176,
+    "spur_ratio": 0.43428201187926585,
+    "spur_excess": 0.3342820118792659,
+    "pattern_file": "pattern_011.npy",
+    "spectrum_file": "spectrum_011.npy"
+  },
+  {
+    "rank": 12,
+    "fitness": [
+      1.0000038146972656,
+      0.012055099010467307,
+      5.055478693576292
+    ],
+    "main_pos": 8.399999618530273,
+    "main_amp": 0.9475889801979065,
+    "n_peaks": 3,
+    "max_spur_amp": 0.3342846930027008,
+    "spur_ratio": 0.35277393467881457,
+    "spur_excess": 0.2527739346788146,
+    "pattern_file": "pattern_012.npy",
+    "spectrum_file": "spectrum_012.npy"
+  },
+  {
+    "rank": 13,
+    "fitness": [
+      1.0000038146972656,
+      0.028756916522979514,
+      2.8192479003258644
+    ],
+    "main_pos": 8.399999618530273,
+    "main_amp": 0.944248616695404,
+    "n_peaks": 3,
+    "max_spur_amp": 0.2275284081697464,
+    "spur_ratio": 0.2409623950162932,
+    "spur_excess": 0.1409623950162932,
+    "pattern_file": "pattern_013.npy",
+    "spectrum_file": "spectrum_013.npy"
+  },
+  {
+    "rank": 14,
+    "fitness": [
+      1.0000038146972656,
+      0.053417444229125755,
+      2.154016633927944
+    ],
+    "main_pos": 8.399999618530273,
+    "main_amp": 0.9393165111541748,
+    "n_peaks": 3,
+    "max_spur_amp": 0.19509682059288025,
+    "spur_ratio": 0.2077008316963972,
+    "spur_excess": 0.10770083169639719,
+    "pattern_file": "pattern_014.npy",
+    "spectrum_file": "spectrum_014.npy"
+  },
+  {
+    "rank": 15,
+    "fitness": [
+      1.0000038146972656,
+      0.08969491720199563,
+      0.5447694624722832
+    ],
+    "main_pos": 8.600000381469727,
+    "main_amp": 0.9320610165596008,
+    "n_peaks": 2,
+    "max_spur_amp": 0.11859402060508728,
+    "spur_ratio": 0.12723847312361417,
+    "spur_excess": 0.02723847312361416,
+    "pattern_file": "pattern_015.npy",
+    "spectrum_file": "spectrum_015.npy"
+  },
+  {
+    "rank": 16,
+    "fitness": [
+      1.4999961853027344,
+      0.003372669219970925,
+      10.45212064549039
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.9506745338439941,
+    "n_peaks": 4,
+    "max_spur_amp": 0.5918956995010376,
+    "spur_ratio": 0.6226060322745195,
+    "spur_excess": 0.5226060322745195,
+    "pattern_file": "pattern_016.npy",
+    "spectrum_file": "spectrum_016.npy"
+  },
+  {
+    "rank": 17,
+    "fitness": [
+      1.4999961853027344,
+      0.004775285720824973,
+      9.442848949513174
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.949044942855835,
+    "n_peaks": 3,
+    "max_spur_amp": 0.5429888963699341,
+    "spur_ratio": 0.5721424474756587,
+    "spur_excess": 0.4721424474756587,
+    "pattern_file": "pattern_017.npy",
+    "spectrum_file": "spectrum_017.npy"
+  },
+  {
+    "rank": 18,
+    "fitness": [
+      1.4999961853027344,
+      0.006041765213012917,
+      4.675449794305625
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.9512083530426025,
+    "n_peaks": 2,
+    "max_spur_amp": 0.3174871802330017,
+    "spur_ratio": 0.3337724897152813,
+    "spur_excess": 0.23377248971528128,
+    "pattern_file": "pattern_018.npy",
+    "spectrum_file": "spectrum_018.npy"
+  },
+  {
+    "rank": 19,
+    "fitness": [
+      1.4999961853027344,
+      0.016733765602111594,
+      4.4700835639583065
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.9466532468795776,
+    "n_peaks": 4,
+    "max_spur_amp": 0.306246280670166,
+    "spur_ratio": 0.3235041781979153,
+    "spur_excess": 0.22350417819791532,
+    "pattern_file": "pattern_019.npy",
+    "spectrum_file": "spectrum_019.npy"
+  },
+  {
+    "rank": 20,
+    "fitness": [
+      1.4999961853027344,
+      0.057148993015289085,
+      1.368620009595725
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.9385702013969421,
+    "n_peaks": 2,
+    "max_spur_amp": 0.15808431804180145,
+    "spur_ratio": 0.16843100047978626,
+    "spur_excess": 0.06843100047978626,
+    "pattern_file": "pattern_020.npy",
+    "spectrum_file": "spectrum_020.npy"
+  },
+  {
+    "rank": 21,
+    "fitness": [
+      1.4999961853027344,
+      0.08313930034637429,
+      0.44737932253537893
+    ],
+    "main_pos": 8.350000381469727,
+    "main_amp": 0.9333721399307251,
+    "n_peaks": 2,
+    "max_spur_amp": 0.11421578377485275,
+    "spur_ratio": 0.12236896612676895,
+    "spur_excess": 0.022368966126768947,
+    "pattern_file": "pattern_021.npy",
+    "spectrum_file": "spectrum_021.npy"
+  },
+  {
+    "rank": 22,
+    "fitness": [
+      1.9999980926513672,
+      0.0019011497497556373,
+      8.608844753469375
+    ],
+    "main_pos": 8.300000190734863,
+    "main_amp": 0.9496197700500488,
+    "n_peaks": 5,
+    "max_spur_amp": 0.5037184357643127,
+    "spur_ratio": 0.5304422376734688,
+    "spur_excess": 0.4304422376734688,
+    "pattern_file": "pattern_022.npy",
+    "spectrum_file": "spectrum_022.npy"
+  },
+  {
+    "rank": 23,
+    "fitness": [
+      1.9999980926513672,
+      0.005685329437256081,
+      5.788135960723504
+    ],
+    "main_pos": 8.300000190734863,
+    "main_amp": 0.9511370658874512,
+    "n_peaks": 6,
+    "max_spur_amp": 0.370379239320755,
+    "spur_ratio": 0.38940679803617523,
+    "spur_excess": 0.2894067980361752,
+    "pattern_file": "pattern_023.npy",
+    "spectrum_file": "spectrum_023.npy"
+  },
+  {
+    "rank": 24,
+    "fitness": [
+      1.9999980926513672,
+      0.06295448541641213,
+      1.2999933554246916
+    ],
+    "main_pos": 8.699999809265137,
+    "main_amp": 0.9374091029167175,
+    "n_peaks": 2,
+    "max_spur_amp": 0.15467219054698944,
+    "spur_ratio": 0.1649996677712346,
+    "spur_excess": 0.06499966777123459,
+    "pattern_file": "pattern_024.npy",
+    "spectrum_file": "spectrum_024.npy"
+  },
+  {
+    "rank": 25,
+    "fitness": [
+      2.5,
+      0.06680524349212624,
+      0.23251491613251046
+    ],
+    "main_pos": 8.75,
+    "main_amp": 0.9366389513015747,
+    "n_peaks": 2,
+    "max_spur_amp": 0.10455302149057388,
+    "spur_ratio": 0.11162574580662553,
+    "spur_excess": 0.011625745806625523,
+    "pattern_file": "pattern_025.npy",
+    "spectrum_file": "spectrum_025.npy"
+  },
+  {
+    "rank": 26,
+    "fitness": [
+      3.000001907348633,
+      0.0009780526161196068,
+      9.215539533361598
+    ],
+    "main_pos": 8.199999809265137,
+    "main_amp": 0.9501956105232239,
+    "n_peaks": 3,
+    "max_spur_amp": 0.5328478217124939,
+    "spur_ratio": 0.5607769766680799,
+    "spur_excess": 0.46077697666807993,
+    "pattern_file": "pattern_026.npy",
+    "spectrum_file": "spectrum_026.npy"
+  },
+  {
+    "rank": 27,
+    "fitness": [
+      3.000001907348633,
+      0.003538370132446511,
+      5.95938277496723
+    ],
+    "main_pos": 8.199999809265137,
+    "main_amp": 0.9507076740264893,
+    "n_peaks": 5,
+    "max_spur_amp": 0.3783523142337799,
+    "spur_ratio": 0.3979691387483615,
+    "spur_excess": 0.2979691387483615,
+    "pattern_file": "pattern_027.npy",
+    "spectrum_file": "spectrum_027.npy"
+  },
+  {
+    "rank": 28,
+    "fitness": [
+      3.5000038146972656,
+      0.0015491843223569557,
+      6.838481915417014
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.9496901631355286,
+    "n_peaks": 5,
+    "max_spur_amp": 0.41969096660614014,
+    "spur_ratio": 0.4419240957708507,
+    "spur_excess": 0.3419240957708507,
+    "pattern_file": "pattern_028.npy",
+    "spectrum_file": "spectrum_028.npy"
+  },
+  {
+    "rank": 29,
+    "fitness": [
+      3.5000038146972656,
+      0.0017622709274289772,
+      6.580477493657282
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.9496475458145142,
+    "n_peaks": 6,
+    "max_spur_amp": 0.4074214696884155,
+    "spur_ratio": 0.42902387468286407,
+    "spur_excess": 0.3290238746828641,
+    "pattern_file": "pattern_029.npy",
+    "spectrum_file": "spectrum_029.npy"
+  },
+  {
+    "rank": 30,
+    "fitness": [
+      3.5000038146972656,
+      0.0028980374336240455,
+      5.812338674930695
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.9494203925132751,
+    "n_peaks": 4,
+    "max_spur_amp": 0.37085968255996704,
+    "spur_ratio": 0.3906169337465348,
+    "spur_excess": 0.29061693374653474,
+    "pattern_file": "pattern_030.npy",
+    "spectrum_file": "spectrum_030.npy"
+  },
+  {
+    "rank": 31,
+    "fitness": [
+      3.5000038146972656,
+      0.00898158550262429,
+      0.19532979746694434
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.9482036828994751,
+    "n_peaks": 2,
+    "max_spur_amp": 0.10408098995685577,
+    "spur_ratio": 0.10976648987334722,
+    "spur_excess": 0.009766489873347217,
+    "pattern_file": "pattern_031.npy",
+    "spectrum_file": "spectrum_031.npy"
+  },
+  {
+    "rank": 32,
+    "fitness": [
+      3.5000038146972656,
+      0.024306535720824973,
+      0.08982918112839439
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.945138692855835,
+    "n_peaks": 2,
+    "max_spur_amp": 0.09875892102718353,
+    "spur_ratio": 0.10449145905641972,
+    "spur_excess": 0.004491459056419719,
+    "pattern_file": "pattern_032.npy",
+    "spectrum_file": "spectrum_032.npy"
+  },
+  {
+    "rank": 33,
+    "fitness": [
+      3.5000038146972656,
+      0.03806924819946267,
+      0.0
+    ],
+    "main_pos": 8.149999618530273,
+    "main_amp": 0.9423861503601074,
+    "n_peaks": 1,
+    "max_spur_amp": 0.0,
+    "spur_ratio": 0.0,
+    "spur_excess": 0.0,
+    "pattern_file": "pattern_033.npy",
+    "spectrum_file": "spectrum_033.npy"
+  },
+  {
+    "rank": 34,
+    "fitness": [
+      3.9999961853027344,
+      0.001795351505279319,
+      6.169352620153321
+    ],
+    "main_pos": 8.100000381469727,
+    "main_amp": 0.9496409296989441,
+    "n_peaks": 3,
+    "max_spur_amp": 0.3878975808620453,
+    "spur_ratio": 0.4084676310076661,
+    "spur_excess": 0.30846763100766605,
+    "pattern_file": "pattern_034.npy",
+    "spectrum_file": "spectrum_034.npy"
+  },
+  {
+    "rank": 35,
+    "fitness": [
+      3.9999961853027344,
+      0.005477607250213845,
+      5.485033122377478
+    ],
+    "main_pos": 8.100000381469727,
+    "main_amp": 0.9510955214500427,
+    "n_peaks": 3,
+    "max_spur_amp": 0.3559490740299225,
+    "spur_ratio": 0.37425165611887395,
+    "spur_excess": 0.2742516561188739,
+    "pattern_file": "pattern_035.npy",
+    "spectrum_file": "spectrum_035.npy"
+  },
+  {
+    "rank": 36,
+    "fitness": [
+      4.499998092651367,
+      8.738040924050061e-05,
+      5.80208785735681
+    ],
+    "main_pos": 8.050000190734863,
+    "main_amp": 0.9499825239181519,
+    "n_peaks": 2,
+    "max_spur_amp": 0.3705923557281494,
+    "spur_ratio": 0.39010439286784054,
+    "spur_excess": 0.2901043928678405,
+    "pattern_file": "pattern_036.npy",
+    "spectrum_file": "spectrum_036.npy"
+  },
+  {
+    "rank": 37,
+    "fitness": [
+      4.499998092651367,
+      0.0002742409706113502,
+      4.946202447257039
+    ],
+    "main_pos": 8.050000190734863,
+    "main_amp": 0.9499451518058777,
+    "n_peaks": 3,
+    "max_spur_amp": 0.3299255669116974,
+    "spur_ratio": 0.34731012236285197,
+    "spur_excess": 0.24731012236285196,
+    "pattern_file": "pattern_037.npy",
+    "spectrum_file": "spectrum_037.npy"
+  },
+  {
+    "rank": 38,
+    "fitness": [
+      4.499998092651367,
+      0.0012654662132260963,
+      3.96169638352543
+    ],
+    "main_pos": 8.050000190734863,
+    "main_amp": 0.9497469067573547,
+    "n_peaks": 4,
+    "max_spur_amp": 0.28310513496398926,
+    "spur_ratio": 0.2980848191762715,
+    "spur_excess": 0.1980848191762715,
+    "pattern_file": "pattern_038.npy",
+    "spectrum_file": "spectrum_038.npy"
+  },
+  {
+    "rank": 39,
+    "fitness": [
+      4.499998092651367,
+      0.0016387701034548119,
+      1.1171907996648738
+    ],
+    "main_pos": 8.050000190734863,
+    "main_amp": 0.9503277540206909,
+    "n_peaks": 2,
+    "max_spur_amp": 0.14811764657497406,
+    "spur_ratio": 0.1558595399832437,
+    "spur_excess": 0.055859539983243695,
+    "pattern_file": "pattern_039.npy",
+    "spectrum_file": "spectrum_039.npy"
+  },
+  {
+    "rank": 40,
+    "fitness": [
+      4.499998092651367,
+      0.002328813076019065,
+      0.0
+    ],
+    "main_pos": 8.050000190734863,
+    "main_amp": 0.9495342373847961,
+    "n_peaks": 1,
+    "max_spur_amp": 0.0,
+    "spur_ratio": 0.0,
+    "spur_excess": 0.0,
+    "pattern_file": "pattern_040.npy",
+    "spectrum_file": "spectrum_040.npy"
+  },
+  {
+    "rank": 41,
+    "fitness": [
+      5.0,
+      0.0005329251289365455,
+      4.761871612625229
+    ],
+    "main_pos": 8.0,
+    "main_amp": 0.9498934149742126,
+    "n_peaks": 3,
+    "max_spur_amp": 0.32115286588668823,
+    "spur_ratio": 0.33809358063126144,
+    "spur_excess": 0.23809358063126143,
+    "pattern_file": "pattern_041.npy",
+    "spectrum_file": "spectrum_041.npy"
+  }
+]

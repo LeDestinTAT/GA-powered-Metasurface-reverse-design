@@ -1,0 +1,49 @@
+{
+  "seed": 42,
+  "deterministic": false,
+  "device": "cuda",
+  "output_dir_root": "outputs/optimization",
+  "model": {
+    "choice": "path",
+    "custom_path": "D:/field_batch_output_compressed_air/models/current/fno_peak_curve_best.pt",
+    "current_best_name": "fno_peak_curve_best.pt",
+    "current_final_name": "fno_peak_curve_final.pt",
+    "run_name": null,
+    "best_index": null
+  },
+  "encoding": {
+    "height": 11,
+    "width": 11,
+    "symmetry": "none"
+  },
+  "nsga2": {
+    "pop_size": 128,
+    "ngen": 80,
+    "cxpb": 0.9,
+    "mutpb": 0.4,
+    "indpb_bit": 0.03,
+    "cache_size": 100000
+  },
+  "peak_detect": {
+    "smooth_k": 5,
+    "min_height": 0.08,
+    "min_prom_ratio": 0.08,
+    "min_distance": 2
+  },
+  "fitness": {
+    "w_pos": 1.0,
+    "w_amp": 1.0,
+    "w_spur": 1.0,
+    "missing_peak_penalty": 1000000.0
+  },
+  "target_peak": {
+    "pos": 8.0,
+    "amp": 0.95
+  },
+  "spur_ratio_max": 0.3,
+  "best_selection": {
+    "w_pos": 1.0,
+    "w_amp": 1.0,
+    "w_spur": 1.0
+  }
+}
